@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>secound commit to </h1>
+<h1>third commit to </h1>
 </body>
 </html>
