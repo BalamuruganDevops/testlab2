@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>third commit to master</h1>
+<h1>2nd feature branch commit</h1>
 </body>
 </html>
