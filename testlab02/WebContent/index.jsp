@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>first commit to master</h1>
+<h1>second commit to master</h1>
 </body>
 </html>
